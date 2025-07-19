@@ -84,4 +84,4 @@ r./MonteCarloOptionPricing
 
 ---
 
-Developed by Joshua
+Developed by Joshua Milessa
